@@ -2,7 +2,7 @@ gOtherText_NewName:: @ 81C574F
     .string "NEW NAME$"
 
 gNameChoice_Green:: @ 81C5758
-    .string "GREEN$"
+    .string "KAIZO$"
 
 gNameChoice_Red:: @ 81C575E
     .string "RED$"
@@ -14,7 +14,7 @@ gNameChoice_Fire:: @ 81C5767
     .string "FIRE$"
 
 gNameChoice_Gary:: @ 81C576C
-    .string "GARY$"
+    .string "CHAT$"
 
 gNameChoice_Kaz:: @ 81C5771
     .string "KAZ$"
@@ -125,34 +125,34 @@ gNameChoice_Suzi:: @ 81C5828
     .string "SUZI$"
 
 gNewGame_HelpDocs1:: @ 81C582D
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "Included here are the various IronMon   \n"
+    .string "resources at your disposal    $"
 
 gNewGame_HelpDocs2:: @ 81C5875
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "IronMon Community Discord\n"
+    .string "https://discord.gg/jFPYsZAhjX   \n"
+    .string "Be Nice! $"
 
 gNewGame_HelpDocs3:: @ 81C58BA
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "Find the Rando here, as well as\n"
+    .string "settings, rules, and more info$"
 
 gNewGame_HelpDocs4:: @ 81C58F9
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "You can post accomplishments, \n"
+    .string "& IronMon streams.$"
 
 gNewGame_HelpDocs5:: @ 81C592B
-    .string "Press this button to open the\n"
-    .string "MENU.$"
+    .string "IronMon Rules Pastebins:     \n"
+    .string "     $"
 
 gNewGame_HelpDocs6:: @ 81C594F
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "IronMon rules are preferences \n"
+    .string "Kaizo's are strict$"
 
 gNewGame_HelpDocs7:: @ 81C5981
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "Kaizo: pastebin.com/sqgFDYME\n"
+    .string "Classic & Ultimate IronMon:  \n"
+    .string "pastebin.com/L48bttfz   $"
 
 gOakText_AskPlayerGender:: @ 81C59D5
     .string "Now tell me. Are you a boy?\n"
@@ -160,27 +160,27 @@ gOakText_AskPlayerGender:: @ 81C59D5
 
 gNewGameAdventureIntro1::
     .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
+    .string "enter, you will encounter grand \n"
+    .string "challenges around every corner.\n"
     .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "Take great care of your POKéMON \n"
+    .string "and train hard. Be sure to use your \n"
+    .string "items wisely, and do not take   \n"
+    .string "trainer battles lightly.$"
 
 gNewGameAdventureIntro2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
+    .string "Use the available resources to find  \n"
+    .string "hidden items, and skip any battle that\n"
+    .string "may be too dangerous. \n"
     .string "\n"
     .string "At times, you will be challenged by\n"
     .string "others and attacked by wild creatures.\n"
     .string "Be brave and keep pushing on.$"
 
 gNewGameAdventureIntro3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
+    .string "During this challenge, we hope \n"
+    .string "that through the toughest times, you \n"
+    .string "will persevere and enjoy this game.   \n"
     .string "That is our biggest objective.\n"
     .string "\n"
     .string "Press the A Button, and let your\n"
@@ -188,7 +188,7 @@ gNewGameAdventureIntro3::
 
 gOakText_WelcomeToTheWorld:: @ 81C5C78
     .string "Hello, there!\n"
-    .string "Glad to meet you!\pWelcome to the world of POKéMON!\pMy name is OAK.\pPeople affectionately refer to me\n"
+    .string "Glad to meet you!\pWelcome to the world of IronMON!\pMy name is OAK.\pPeople affectionately refer to me\n"
     .string "as the POKéMON PROFESSOR.\p$"
 
 gOakText_WorldInhabited1:: @ 81C5D06
